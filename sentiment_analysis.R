@@ -28,10 +28,10 @@ require(plyr)
 
 # Authenticate using your credentials to Twitter’s API by creating an access token. Steps on getting Twitter access tokens:
 
-consumer_key  <- 'GztFKJWXi7BPZT4JmSTcbFV51'
-consumer_secret  <- 'GbykWkjsytL1Un3nKt7xw3PEwmrEgdLlpMRKdEwYgH7e1yVMZ9'
-access_token  <- '77672394-PLjdWj5mqKiMkiYOL4AyDMRafoAI2bM6Xl5tfX4OT'
-access_secret  <- 'TXqiY4lVAj7uFXfgskqftVNOxbtAGrjSreA61tZ4ZxkSR'
+consumer_key  <- ''
+consumer_secret  <- ''
+access_token  <- ''
+access_secret  <- ''
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
 
 #Step 3: Search tweets on the topic of your choice; narrow the number of tweets as you see 
